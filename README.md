@@ -1,2 +1,4 @@
-# MirageCraft
+# MirageCraft 
+
+# Сайт сервера по Minecraft
  
